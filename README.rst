@@ -1,3 +1,11 @@
+Repository for sphinx with read the docs documentation page
+==================
+
+View it online: https://chepo92.github.io/sphinx-lesson/
+
+This is a fork of https://coderefinery.github.io/sphinx-lesson
+
+
 Sphinx test lesson
 ==================
 
